@@ -1,0 +1,14 @@
+Kevin Aarstad:
+    Database Done
+    Menu Done
+    Combine the two
+    Add the JUnit
+
+Raphael:
+    All customer user stories
+    Implemented menues for such
+    JDBC connection
+    Will work on other user stories
+    Problem: Long strings are being truncated
+
+
