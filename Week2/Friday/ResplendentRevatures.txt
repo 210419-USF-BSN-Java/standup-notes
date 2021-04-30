@@ -1,0 +1,16 @@
+Notes:04/30/2021
+
+Uriah O: 
+Project is mostly complete revising project structure a bit. Agrees that there is a lot to cover and that everyone is mainly focused on the project. 
+
+Ryan C:
+Project is going well. Is struggling slightly with junit testing. The course if fine just a lot of information to cover.
+
+Rick:
+Project is planned out fully. SQL tables are setup and now getting started on Java code. Does not know Java well since he is more familiar with other languages. Needs to reference Java documentation.
+
+Nolan:
+Project is going well currently working on daos. The assignment helped a lot the other day to get an idea how to connect the database and create daos.
+
+Overall Notes:
+We discussed how the dates for offers should be input into the Java portion of the app. We decided to look at the Java documentation https://docs.oracle.com/javase/8/docs/api/java/util/Date.html

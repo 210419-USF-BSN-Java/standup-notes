@@ -1,0 +1,23 @@
+Kemo
+Project status – pretty much done
+feel for the course-  Roc lets him understand the course fully, so he is doing alright
+goal – finish the project, finish the tDD
+blockers – practice more on sql
+
+James
+project status – half way done, implemented methods
+feel for course – good, roc helps
+goals – finish project, study more for sql and java
+blockers- N/A
+
+Sean 
+project status – so far so good, finish up postgres implementation
+feel for the course – understand the finer details understand the bigger picture how we structure project
+goal – Figure out how to implement unit testing, log4j
+blockers – N/A
+
+Steven 
+project status – half way done 
+feel for course – SQL a lot better java
+goal – TDD, log4j
+blockers – JAVA notes
