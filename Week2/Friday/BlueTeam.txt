@@ -11,4 +11,12 @@ Raphael:
     Will work on other user stories
     Problem: Long strings are being truncated
 
+Felix:
+    All menues are Done
+    Needs to work on Database for user stories
+    Problem: Research
 
+Andrew:
+    Schema completed for app
+    Half JDBC methods are Implemented
+    Start on menus
