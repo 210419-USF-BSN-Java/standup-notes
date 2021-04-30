@@ -1,0 +1,21 @@
+Christopher Espinal
+- figured out JUNIT 4 testing
+- almost finished with DAO IMPL
+
+Devaraj
+- finished setup project structure
+- finished models and classes
+- current working on implementation of customer dao
+
+Robbie Weeks
+- product features
+- working on password hashing
+
+Teresa
+- Finsihed the customer model
+- finished all models
+- going to start creating and working on the manager model
+
+Guojun Wei
+- finished setting up model and a structure 
+- working on implementation
