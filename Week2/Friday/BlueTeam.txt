@@ -11,7 +11,7 @@ Raphael:
     Will work on other user stories
     Problem: Long strings are being truncated
 
-Felix:
+Felix Ngyugen:
     All menues are Done
     Needs to work on Database for user stories
     Problem: Research
