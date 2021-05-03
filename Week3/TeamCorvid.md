@@ -38,8 +38,11 @@
 - null
 
 ## `Ruben`
-- tbd
-   
+- Adding items to db
+- Finish majority of user stories
+- sql errors 
+-  none
+-  none
 
 
 
