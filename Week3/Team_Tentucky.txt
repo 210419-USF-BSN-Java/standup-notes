@@ -1,0 +1,37 @@
+OVERALL
+*--------------------------------------------------------------------------------------------------------------------*
+Project status - almost done
+feel for the course - everyone acknowledges their strength and weakness based on the concepts we have learned so far
+goals - Overall, strengthening our conceptal knowledge on JAVA or SQL
+blockers - testing is a common blocker
+
+*--------------------------------------------------------------------------------------------------------------------*
+
+Kemo
+Project status – pretty much finish, missing test
+feel for the course - pretty good, need more practice on SQL
+goal – review mocking test and grabbing a better understanding of javascript
+blockers – refresh how to use mocking for database testing 
+
+
+James
+project status – pretty much almost done
+feel for course – feels good about the course so far
+goals – Strengthen your foundational JAVA knowledge
+blockers - N/A 
+
+
+Sean 
+project status – looking well, need to implement test, log4j almost done, programs runs well 
+feel for the course – Week two was challenging compared to week 1
+goal – need more practice on sql
+blockers – no blockers
+
+
+Steven 
+project status – Main user stories are done, planning to do bonus section of the project
+feel for course –  understood the week 2 concept better than week 1
+goal – prepare for week 3  context
+blockers – implementing junit test
+
+

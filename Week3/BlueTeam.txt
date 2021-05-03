@@ -1,0 +1,19 @@
+Kevin Aarstad:
+    Needs to do JUnit
+    Needs to do Logging
+
+Raphael:
+    Finished all but one user story
+    Finished Logging
+    Needs to finish JUnit
+    Fixing a bug
+
+Felix Ngyugen:
+    Needs to start JUnit
+    Needs to do Logging
+
+Andrew:
+    Needs to do Input Validation
+    Needs to do JUnit
+    Needs to do Logging
+    Wants to do any amount of bonuses
