@@ -1,0 +1,36 @@
+Notes:05/03/2021
+
+Uriah O:
+
+- project status: On schedule needs to implement testing and 1 remaining user story.
+- feel for course: unchanged since last week
+- focus/goals: The project
+- blockers: None
+- questions/clarification: None
+
+Ryan C:
+
+- project status: Behind schedule, going to start crunch time today, still needs to implement menus  
+- feel for course: unchanged since last week
+- focus/goals: The project
+- blockers: None
+- questions/clarification: Can we use system.out to print 
+
+Rick: Not present
+
+- project status:
+- feel for course:
+- focus/goals:
+- blockers:
+- questions/clarification:
+
+Nolan C:
+
+- project status: On schedule, working on unit tests 
+- feel for course: Still feels good about it
+- focus/goals: The project
+- blockers: None
+- questions/clarification: testing void methods with Junit
+
+Overall Notes:
+
