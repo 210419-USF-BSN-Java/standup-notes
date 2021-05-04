@@ -6,13 +6,10 @@
 ### _Blockers_
 ### _Questions/clarification_
 ---
-
- \**New compact format prevents scroll finger fatigue!*
-
 ## `Raymond`
-- Finished. Refactoring. Practice presentation. One hour meeting. 10-11 central
+- Finished. Refactoring. 
 - Enjoys quick pace 
-- Prepare for presentation
+- Prepare for presentation. Practice presentation. 
 - None
 - None
 
@@ -21,10 +18,10 @@
 - All good
 - Finish project and prep for presentation
 - none
-- none
+- Standup wrap-up format. 
 
 ## `Aliaksei`
-- finished user storier. testing and bug hunting
+- Finished user stories. testing and bug hunting
 - Good. 
 - Testing
 - None
