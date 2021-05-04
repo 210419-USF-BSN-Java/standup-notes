@@ -1,0 +1,36 @@
+Notes:05/04/2021
+
+Uriah O:
+
+- project status: Project is finished, wants to do a bit of testing
+- feel for course: The course is fine just focused on the project
+- focus/goals: The project
+- blockers: None
+- questions/clarification: None
+
+Ryan C:
+
+- project status: Is caught up now and project is finished 
+- feel for course: unchanged since last week
+- focus/goals: The project
+- blockers: None
+- questions/clarification: Might have a question about front-end building 
+
+Rick: 
+
+- project status: Project is mostly complete, could use today to finish up
+- feel for course: Alright, a lot of content
+- focus/goals: The project
+- blockers: None
+- questions/clarification: None
+
+Nolan C:
+
+- project status: Project is finished, just working on Junit tests
+- feel for course: Still feels good about it
+- focus/goals: The project
+- blockers: None
+- questions/clarification: None
+
+Overall Notes:
+
