@@ -1,0 +1,35 @@
+OVERALL
+*--------------------------------------------------------------------------------------------------------------------*
+Project status - Testing needs to be finish
+feel for the course - the upcomings topics are a bit worrysome
+goals - finish projects and learning the new topics
+blockers - mostly none
+
+*--------------------------------------------------------------------------------------------------------------------*
+
+Kemo
+Project status – Need final check down
+feel for the course - good
+goal – finish project and understand new upcoming topics
+blockers – no blockers
+
+
+James
+project status – Testing left
+feel for course – good, worried about the upcoming topics
+goals – understand new upcoming topics
+blockers - no blockers 
+
+
+Sean 
+project status – testing left
+feel for the course – worried about the upcoming topics
+goal – stay on top of things
+blockers – no blockers
+
+
+Steven 
+project status – testing and formatting needed
+feel for course – worried about the upcoming topics
+goal – finish project
+blockers – mockito
