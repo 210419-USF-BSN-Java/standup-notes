@@ -1,0 +1,14 @@
+Kevin Aarstad:
+    Finish JUnit 
+
+Raphael:
+    All use cases done
+    Restructured database
+    Issues with JUnit
+
+Felix Ngyugen:
+    Finish JUnit
+
+Andrew:
+    Needs to do Input Validation
+    Wants to do any amount of bonuses
