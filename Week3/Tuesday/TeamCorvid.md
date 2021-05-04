@@ -11,13 +11,17 @@
 
 ## `Raymond`
 - Finished. Refactoring. Practice presentation. One hour meeting. 10-11 central
-- Pace is good. 
+- Enjoys quick pace 
 - Prepare for presentation
 - None
 - None
 
 ## `Tom`
-
+- finishing payments, then will be done, plus some bonuses
+- All good
+- Finish project and prep for presentation
+- none
+- none
 
 ## `Aliaksei`
 - finished user storier. testing and bug hunting
