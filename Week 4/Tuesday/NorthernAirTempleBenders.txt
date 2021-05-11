@@ -1,0 +1,19 @@
+Teresa:
+    EC2 set up, just nends to set up security features
+    Needs to finish relationships on DB Schema
+
+James
+    Started project
+    Some models set
+
+Dev
+    Setting up database
+    Waiting to learn more
+
+Christopher
+    Waiting to learn more
+    Will to learn
+
+Andrew
+    Waiting to learn more
+    Will to learn
