@@ -1,5 +1,6 @@
 Teresa:
     Finished relationships on DB Schema
+    Able to insert data into database
     Working on querying the AWS database
 
 James
