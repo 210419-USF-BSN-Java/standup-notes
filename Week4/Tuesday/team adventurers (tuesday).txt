@@ -1,0 +1,11 @@
+raphael
+- created models, some html pages, some issues with project structure
+
+uriah
+- created models, unit testing
+
+ruben
+- created models, project structure through maven webapp
+
+felix
+- created a few models, crud, logging, dependencies, web.mxl
