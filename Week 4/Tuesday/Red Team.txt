@@ -1,0 +1,21 @@
+Kemo
+	Started setting up folders and interfaces for the project.
+	Need to review Week 3 content
+
+
+Raymond
+	Project 1: Set up ProjectOne DB, Log4j, WEB.XML, POM.XML
+	Focus on Html and CSS
+	Need to setup localhost connection
+
+Kevin C.
+	Haven’t started on the project	
+	Blocker: Tomcat not working right
+	
+
+Robbie
+	Started on project. Working on DAO and Service layers.
+
+Wei
+	Working on Servlet 
+	Designing front end for project and plan to work on database.
