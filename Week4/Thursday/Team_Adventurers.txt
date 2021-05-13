@@ -1,0 +1,22 @@
+Uriah
+- Going over revpro content 
+- holding back on the project until the weekend
+- no blockers other than potential obstacles during learning
+
+Ruben
+- Got started with database
+- No blockers yet
+
+Raphael
+- Set up database locally and populated data
+- got most methods for DAO layer
+- trying to get a better idea of handling his views
+
+Felix
+- Got started on DAO methods
+- trying to grind out the content on revpro
+
+Aliaksei
+- Figuring out on the servlets before working on the proj
+- A bit confused on how javascript is integrated into the proj - > solved it
+
