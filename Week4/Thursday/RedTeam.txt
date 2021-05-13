@@ -1,0 +1,28 @@
+
+
+Raymond
+	Updated web.xml, added FC, completed 80% of employeeDao
+	Finish DAO methods and work on Front Controller.
+	Review RevPro content.
+
+
+Kemo
+	Worked on Models, Service, and DAO layer.
+	Planning to finishing those layers and do test.
+	Review RevPro content.
+	
+
+Robbie
+	Finished DAO, Testing, and Logging. 
+	Started doing front end with html/javascript.
+	Review RevPro content.
+	
+Kevin
+	Focus on models and DAO layer.
+	Reviewing RevPro content.
+
+Wei
+	Connected to AWS and created tables.
+	Started working on an Login and Employee page.
+	Started working on back end.
+	Review RevPro content.
