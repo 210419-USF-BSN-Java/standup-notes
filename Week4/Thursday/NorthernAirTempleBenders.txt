@@ -1,0 +1,27 @@
+Teresa:
+    Setup Jenkins in EC2
+    Customer login
+
+James
+    Working on controller
+    Database Connected
+
+Dev
+   Setup Jenkins in EC2
+   Installed Jenkins
+   Working landing page
+
+Christopher
+    Database Connected
+    Finishing up DAOs
+    Wants to finish on Services
+
+Andrew
+    Database Connected
+    Finishing up DAOs
+    Wants to finish on Services
+
+Sean
+    Database Connected
+    Finishing up DAOs
+    Wants to finish on Services
