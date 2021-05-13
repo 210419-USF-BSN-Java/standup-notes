@@ -1,0 +1,36 @@
+05/13/2021
+
+Nolan C:
+project status: Finished model
+feel for course: Overall fine
+focus/goals: Front-end setup
+blockers: None
+questions/clarification: None
+
+Tom D: 
+project status: Started working on front-end, 
+feel for course: It is fine more project time is nice
+focus/goals: Upcoming QC and project
+blockers: None
+questions/clarification: None
+
+Ryan C:
+project status: Falling behind a bit 
+feel for course: Going fast but alright
+focus/goals: Catch up on project
+blockers: Lack of time 
+questions/clarification: Might have some questions later on
+
+Steven N:
+project status: Getting along, Database created and connected
+feel for course: The course is fast but good
+focus/goals: QCs and project
+blockers: None 
+questions/clarification: None
+
+Kevin A:
+project status: Making good progress
+feel for course: Happy with the course, glad we are getting more time in class to work on project
+focus/goals: Project and studying new content
+blockers: None
+questions/clarification: None 
