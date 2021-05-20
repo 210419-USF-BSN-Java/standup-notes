@@ -1,0 +1,23 @@
+Adventurers 
+may 14 ,2020
+
+Uriah
++ showed his test methods with mockito User Service class.
+
+Ruben
++ Looking up content on Rev pro, not much project work.
+
+Raphael
++ Working on service layer methods
++ Little bit of front end work
++ Started Log4j2
++ Started unit testing on user service class
+
+Aliaksei
++ Studying content on revpro
++ Started models for projects
+
+Felix
++ Studying content on revpro
+
+

@@ -1,0 +1,24 @@
+
+
+Kemo
+	DAOs and Service Layer finished. Setup for tests are finished, just need to test assertions.
+	Plans to work on Servlets today.
+
+
+Raymond
+	Completed Database setup. Finished DAOs.
+	Working on FrontController and Servlets.	
+
+
+Kevin
+	Got Maven to work in VSCode. Completed models.
+	Not too sure on Blob for Receipt and LocalDate for time datatype.
+	Plans to work on frontend.
+
+Robbie
+	Completed most of backend. Working on tests, Servlets, and Front Controller.
+
+Wei
+	Has webpages for employee and login setup.
+	Plans to test sending data to webpage with event handlers.
+	Work on backend.

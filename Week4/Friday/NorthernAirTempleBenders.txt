@@ -1,0 +1,27 @@
+Teresa:
+    Continuing to work on customer login
+    Fixed bugs in server and database
+    Working on fixing tomcat
+
+James
+    Working on controller
+    Database Connected
+
+Dev
+   Continuing working landing page, progress going well
+
+Christopher
+    Database Connected
+    Finished all DAOs, working on testing
+
+Sean
+    Database Connected
+    Finishing up DAOs
+    Wants to finish on Services
+    Working on ER Diagram and Schema
+
+Andrew
+    Database Connected
+    Finishing up DAOs
+    Wants to finish on Services
+

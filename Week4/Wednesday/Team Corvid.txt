@@ -1,0 +1,44 @@
+OVERALL
+*--------------------------------------------------------------------------------------------------------------------*
+Project status - Mix of Planning Phase and started
+feel for the course - Content - feels good
+goals - Project Progression
+blockers - Mix of no blockers or comprehending front controller design
+question/clarification - Mostly no questions
+
+*--------------------------------------------------------------------------------------------------------------------*
+
+Tom
+Project status – working on login servlet, pseudocodeish inputted 
+feel for the course - content with the status of the course
+goal – successfully interact with aws database
+blockers – None
+questions/clarification - Who is the client? xD
+
+Ryan
+project status – stuck on front controller design, Ryan feels like he is currently behind on project progress
+feel for course – going well, is understanding most of the current topics for the week
+goals – progressing on the project
+blockers - comprehending front controller design 
+questions/clarification - Sessions/cookies
+
+Nolan 
+project status – aws is configured
+feel for the course – feels alright about the course
+goal – working on project structure
+blockers – no current blockers 
+questions/clarification - no current questions
+
+Steven 
+project status – Still planning
+feel for course – it going well so far
+goal – project progression
+blockers – Configuring the whole front controller part
+questions/clarification - none
+
+Kevin A
+project status – Planning phase
+feel for course –  going well
+goal – project progression
+blockers – None
+questions/clarification - None

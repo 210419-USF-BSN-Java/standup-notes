@@ -1,0 +1,26 @@
+Teresa:
+    Finished relationships on DB Schema
+    Able to insert data into database
+    Working on querying the AWS database
+
+James
+    Generated a skeleton for the project
+    Made the database, going to work on connecting to it
+
+Dev
+    Try to connect to DB
+    Fill out classes
+
+Christopher
+    Finished models
+    Working on DB setup today to complete DAOs
+
+Andrew
+    Generate a skeleton
+    Models
+    Connection to DB setup today
+
+Sean
+    Finished up a good bit of the DAOs
+    Began writing some SQL
+    Began working on Models

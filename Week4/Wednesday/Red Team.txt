@@ -1,0 +1,21 @@
+
+Kemo:
+	Setting up connection for AWS
+	Review HTML/Javascript
+
+Raymond:
+	Setting up connection for AWS
+	Review HTML/Javascript
+
+Robbie:
+	Setting up connection for AWS
+	Review HTML/Javascript
+
+Kevin:
+	Made database tables, need to implement into Java
+	Getting Maven to work with Tomcat
+
+Wei:
+	Setting up connection for AWS
+	Working on Frontend of project
+	Review HTML/Javascript
