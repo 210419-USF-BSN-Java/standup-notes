@@ -1,0 +1,44 @@
+General consensus:
+	-Project in general going well, people are starting at different points but happy with projects
+	-No impassible blockers, most just people want to dive into themselves
+	-No clarifications needed
+	-All focusing on QC studying and project
+	-Feel for the course: Generally find it challenging, but doable
+
+
+
+Tom
+	Proud of: Routing for landing of manager/employee pages
+	Blockers: capturing html info after routing
+	Focus/goals: QC studying and project
+	Feel for course: Wish we were working with more current technology, but recognizes why we are doing it.
+	Clarifications: none
+Nolan
+	Proud of: General project layout and delegates
+	Project: AWS connection complete, currently on front end
+	Blockers: none
+	Focus/goals: QC to master new topics
+	Feel for Course: loving it
+	Clarifications: which exact models to use
+Steven
+	Proud of: Happy with progress in project
+	Blockers: how to set up reimbursement author/resolver
+	Focus/goals: QC studying
+	Feel for course: Challenging but doing his best
+	Carlifications: none
+Kevin
+	Proud of: Learning Ajax, new topic, enjoys how it works
+	Project: Backend almost done, happy with project
+	Blockers: none
+	Focus/goals: QC studying and project
+	Feel for course: Challenging, but progressing
+	Clarifications: none
+Ryan
+	Proud of: Understanding of CSS/HTML
+	Project status: slow and steady
+	Blockers: Servlet understanding
+	Focus/goals: implementing servlets in project, QC studying
+	Feel for course: Kind of overwhelming, use weekend to catch up
+	Clarifications: none
+	
+
