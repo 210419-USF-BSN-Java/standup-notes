@@ -1,1 +1,27 @@
+Ryan Cho
+    Debating Front Controller Design
+    Will need to work on it
+
+Wei
+    Working on front end
+    Login in session completed
+    Need to work on back end
+
+James
+    Debating Front Controller Design
+    Will need to work on it
+
 Uri
+    Backend is completed
+    Working on frontend, need start
+    Will try to implement front Controller
+
+Andrew
+    Backend
+    Employee and Manager done
+    Finish Forms
+    Want do sessions
+
+
+Final thoughts:
+    The content has been managable
