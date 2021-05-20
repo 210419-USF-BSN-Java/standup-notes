@@ -1,0 +1,24 @@
+Teresa
+- Got structure and found issues with Tomcat -> got solved
+- Going to work on front end
+
+Kemo
+- Got backend done stuff mainly done
+- Just need to do front end
+- Had a blocker with maven but ironed out the issue yesterday
+
+Felix
+- Working on front end and can post submit forms to the database
+- Has issues authenticating user logins
+- Will check in with ruben for help using sessions
+
+Ruben
+- Had issues starting the initial page
+- wants to get into angular 
+
+Steven
+- Trying to manage time between studying and project
+- Likes the idea of angular
+- Focusing on the project
+
+

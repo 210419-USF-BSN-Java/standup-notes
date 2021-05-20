@@ -1,0 +1,34 @@
+Raphael S
+Project status – finished employ user stories, front end taking a minute  
+feel for the course - schedule is full
+goal – Getting aws setup and studying for qc 
+blockers – None
+questions/clarification - logout session
+
+Raymond C
+project status – back end finished, working on front end 
+feel for course – going good
+goals – study and finish project
+blockers - None
+questions/clarification - None
+
+Nolan 
+project status – back end finished, working on front end 
+feel for the course – feels alright about the course
+goal – working on project structure
+blockers – None
+questions/clarification - None
+
+Kevin A
+project status – Going well, back end almost done, need to get to work on front end
+feel for course –  The stuff we are learning not matching up with what we are working on causes slight problems.
+goal – Portfolio this weekend
+blockers – None
+questions/clarification - None
+
+Robbie W
+project status – Back end finished, front end login completed
+feel for course –  Going well
+goal – Work on portfolio 
+blockers – None
+questions/clarification - None
