@@ -1,0 +1,12 @@
+Wednesday Standup
+Entire Team
+    Discuss models
+    Discuss services
+Backend (Kevin, Teresa):
+Backend Team will need to discuss:
+    Backend frameworks (Spring, Hibernate)
+    Models (Users)
+Frontend (Andrew, Uriah, Chris):
+Frontend Team will need to discuss:
+    A general framework for the FE based on models
+    Decompartmentalization of parts of the general framework
