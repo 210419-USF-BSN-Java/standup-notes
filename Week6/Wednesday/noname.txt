@@ -1,0 +1,22 @@
+Project status:
+Plan to work on models/database setup
+Map out user pages, set up deployment platforms
+
+Kevin
+Working with EC2/Jenkins
+
+Tom
+Reviewing Spring/Angular
+Connected to EC2/Jenkins
+
+Dev
+Revieiwng Spring/Angular
+Working with Jenkins
+
+Alex
+Working on learning Angular, reviewing from notes repo
+
+Felix
+Worked on tour of heroes angular guide
+Worked on portfolio 
+
