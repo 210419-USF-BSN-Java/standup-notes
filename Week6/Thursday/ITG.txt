@@ -1,0 +1,23 @@
+Front End
+  Andrew Davis
+    - Last time did tour of heroes
+    - Will finish tour of heroes tonight
+    - will get mockups
+    - create a Git folder: 
+  Uriah
+    - did enough of angular tutorials
+    - next step to starting working on the mockups
+    - general framework
+  Christopher Espinal
+    - Did getting started tutorials
+    - will check out the connection
+Backend
+  Kevin
+    - tour of heroes
+    - spring - went over notes
+  Teresa
+    - created a database tables
+    - created an EC2
+    - jenkins is working
+    - would like set up the folder skeleton of the backend
+    - researched CORS issues
