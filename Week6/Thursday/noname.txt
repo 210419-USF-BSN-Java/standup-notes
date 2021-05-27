@@ -1,0 +1,24 @@
+Project Status
+Mapping out app structure
+Learning technologies
+
+Aliaksei
+    Learning Spring and Angular
+    Blockers: none
+
+Tom
+    Working on building login/sign up page
+    Blockers: none
+
+Dev
+    Working with connection/modifying ERD relationships
+    Blockers: none
+
+Felix
+    Studying Angular    
+    Blockers: none
+
+Kevin
+    Learning Angular
+    Revieiwng Revpro
+    Blockers: none
