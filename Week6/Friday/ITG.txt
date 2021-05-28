@@ -1,0 +1,24 @@
+Group
+  - Swagger UI
+  - are we going to need an actuator? Seems like a bit much
+
+Front End
+Andrew Davis
+  - mockup
+  - need to discuss how features will work
+Uriah
+  - made modular mockup
+Christopher Espinal
+  - needs to finish his mockup
+ 
+Backend
+Kevin
+  - tables made
+
+Teresa
+
+Tasks
+  - SwaggerUI
+  - populate with mock data?
+  - simple tags
+  - skeleton using Spring
