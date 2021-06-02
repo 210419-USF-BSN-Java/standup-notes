@@ -1,0 +1,29 @@
+Christopher Espinal
+- Finished services
+- need to test services
+- need put together the presentation layer
+- I think that lectures should be recorded
+- Project Feedback - models => database => services => presentation layer
+
+Devaraj
+- finished most of the user stories
+- calculate the weekly payments
+- done with all other user stories
+- done with JUnit
+- agrees that we should have class recordings
+- Project Feedback - built up confidence in SQL 
+
+Robbie Weeks
+- Finished most requirements
+- need to complete manual testing of inputs
+- Project Feedback - preventing getting leaked via password Hashing is interesting
+
+Guojun Wei
+- finished most of the basic user stories
+- start the junit tests and the rest of the user stories
+- need to improve Java foundations
+- basic class structure and OOP design
+- Project Feedback - never had experience putting together a project with more components, just need more practice
+
+Teresa
+

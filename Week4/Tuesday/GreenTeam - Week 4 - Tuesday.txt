@@ -1,0 +1,23 @@
+Christopher Espinal
+- almost finished testing the service layer
+- still haven't started teh presentation layer
+- class - would like lecture videos
+
+Devaraj
+- Almost done
+- added methods for managerial functions
+- currently doing manual testing
+
+Robbie Weeks
+- almost done
+- mockito junit testing left
+
+Teresa
+- almost done
+- doing some testing
+- practically done finished, just have to finalize that project works
+
+Guojun Wei
+- finished most of the features and the tests
+- log4j set up
+- can print to the console, but not sure what we're logging
