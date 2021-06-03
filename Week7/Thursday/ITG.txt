@@ -1,0 +1,23 @@
+Andrew
+	- Got the API done
+	- Problem with Junction Tables
+	- Made progress on Sessions
+	- Will start hardcoding albums component
+
+Uriah
+	- finished single image component
+	- started working on multi-image display
+
+Christopher
+	- Made update-info component
+	- worked on HttpSessions on backend for user
+	- Front-end has a sessions token now
+
+Kevin
+	- Finished every method, except creating a rating
+
+Teresa
+	- added sessions token to her version of the backend
+	- Jenkins - got it running
+	- Three or four more steps
+	- will integrate with Github
