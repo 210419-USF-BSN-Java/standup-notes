@@ -1,0 +1,23 @@
+-Felix
+Resolved CORS issue
+Got to display API data onto a template
+Finished setting up api gateways for lambda functions
+
+-Kevin
+Got JSON data from API
+Worked on portfolio
+Had cores issue
+
+-Tom
+Finished destination form
+Working on services to add to an API call
+
+-Dev
+Finished saved flight and save lodging option
+Next is working on saving food category
+Suggesting to test connecting front end to back end
+
+-Aliaksei
+No blockers, continuing to work on backend
+
+
