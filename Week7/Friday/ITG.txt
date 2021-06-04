@@ -1,0 +1,20 @@
+Chris
+	- will use headers to pass around authorization info
+	- i got started on the nav bar and tool bar
+
+Uriah
+	- did a very barebones search bar
+	- it's functional
+	- will test on the api backend
+
+Andrew
+	- worked with Kevin on completing end point issues
+	- will finish up the album logic
+
+Kevin
+	- all image endpoints are done
+	- documentation is updated that documents small document changes
+
+Teresa
+	- EC2's are running
+	- front end deployed to s3
