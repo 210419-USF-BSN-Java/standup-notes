@@ -1,0 +1,43 @@
+Project Status:
+Front End to Back End Connection established
+Backend is offically hosted on EC2
+Jenkins to EC2 set up but with bugs 
+Backend mostly finished
+Good progress on Front End
+Need to solidify a few backend issues
+
+Blockers:
+None
+
+Focus:
+Solidify out movie API issues 
+Solidify backend to front end data type transfer
+Solidify Jenkins EC2 bugs 
+Finish Front end stories
+
+
+Kemo
+Set up Jenkins to EC2 mostly, have to work on minor bugs 
+Major issue with a the pipeline with a build processing because our server on the EC2 is always running
+
+
+Steven
+Switched our AWS database to Steven's AWS
+Working on Critic Stories
+Movie API key issues, pulling entire page of JSON files, needs help with getting specific columns 
+Look into Filter/Map from Rxjs
+
+Ruben
+Working on User Stories 
+Still working with mock data 
+
+
+Robbie
+Officially hosted our backend onto EC2 Server
+Working on backend to frontend communcation
+
+
+Ray
+Set up Login from Front End to Back end
+Currently working on establishing Login routes to proper User/Critic/Administrator pages
+Working on Admin Stories 
