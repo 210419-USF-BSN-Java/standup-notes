@@ -1,0 +1,24 @@
+Fantastic- 4
+Date: 6/4/2021
+Week:7
+
+Nolan
++ Jenkins set up
++ worked on some of the endpoints
+--had issues with services
+
+James
++create services and classes for database
++made structure for powerpoint
+
+
+Ryan
++Tested most of admin services
++completed testing of question, score and most user services
+to do: testing data from api
+
+
+Raphael
++Added more functionality to app
+--Issues passing data between components
+--Issues resolving http connection errors with server
